@@ -1,0 +1,6 @@
+{
+  "name": "J-MUSIC",
+  "description": "Estúdio musical profissional J-MUSIC com mixer de instrumentos (stems), equalizador visual, tap tempo, transposição de tom e acordes inteligentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
